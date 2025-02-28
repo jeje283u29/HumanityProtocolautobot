@@ -1,4 +1,4 @@
-# HumanityProtocolautobot
+# HumanityProtocol autobot
 ✨ Key Features
 
 🔄 Auto Claim daily
