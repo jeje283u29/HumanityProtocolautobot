@@ -74,3 +74,6 @@ nano private_keys.txt
     ```sh
     python bot.py
     ```
+
+
+    Last updated: 
